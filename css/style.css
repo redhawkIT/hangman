@@ -1,0 +1,21 @@
+.container {
+  margin-top: 100px;
+  text-align: center;
+  font-family: "Open Sans";
+  font-weight: 800;
+  font-style: italic;
+  font-size: 45px;
+  line-height: 30px;
+}
+
+button {
+  height: 50px;
+  width: 50px;
+  margin: 15px 4px 4px 4px;
+  box-shadow: 5px 5px 5px #888;
+}
+.btn {
+    font-weight: 800;
+    font-size: 25px;
+    text-transform: uppercase;
+}
